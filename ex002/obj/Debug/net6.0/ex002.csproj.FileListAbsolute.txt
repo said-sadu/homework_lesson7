@@ -1,0 +1,15 @@
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/bin/Debug/net6.0/ex002
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/bin/Debug/net6.0/ex002.deps.json
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/bin/Debug/net6.0/ex002.runtimeconfig.json
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/bin/Debug/net6.0/ex002.dll
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/bin/Debug/net6.0/ex002.pdb
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.dll
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/refint/ex002.dll
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.pdb
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ex002.genruntimeconfig.cache
+/Users/saidsadullaev/Desktop/hw_lesson7/ex002/obj/Debug/net6.0/ref/ex002.dll
